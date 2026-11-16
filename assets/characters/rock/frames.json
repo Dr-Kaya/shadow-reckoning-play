@@ -1,0 +1,41 @@
+{
+  "nominal_height": 238,
+  "frames": {
+    "idle": {
+      "padding": 7
+    },
+    "walk": {
+      "padding": 7
+    },
+    "jab": {
+      "padding": 7
+    },
+    "kick": {
+      "padding": 7
+    },
+    "guard": {
+      "padding": 15
+    },
+    "jump": {
+      "padding": 15
+    },
+    "cast": {
+      "padding": 15
+    },
+    "hurt": {
+      "padding": 15
+    },
+    "portrait": {
+      "padding": 10
+    },
+    "duck": {
+      "padding": 11
+    },
+    "ko": {
+      "padding": 41
+    },
+    "thumb": {
+      "padding": 0
+    }
+  }
+}
